@@ -27,6 +27,9 @@ Framework, to understand its functionality.
 · Designed and developed plant simulator control software using C#, migrating the application from .Net framework to
 ASP.NET Core.
 
+### :fire: My Stats :
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=rahnayak98&theme=dark&background=000000)](https://git.io/streak-stats)
+
 
 <!--
 **rahnayak98/rahnayak98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
