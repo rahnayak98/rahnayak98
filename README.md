@@ -27,6 +27,33 @@ Framework, to understand its functionality.
 · Designed and developed plant simulator control software using C#, migrating the application from .Net framework to
 ASP.NET Core.
 
+#Projects:
+---
+## AWS based Smart classroom assistant for educators.
+● Implemented an end-to-end scalable solution for image recognition using multiple IaaS services of AWS.
+● Developed automatic scaling of the application to handle increasing demand by using no more than 20 EC2 instances and queuing pending requests
+using Simple Queue Service (SQS) , with inputs and outputs stored in separate S3 buckets for persistence.
+● Optimized implementation to meet the target performance to handle the peak load and was able to handle more than 5000 multithreaded requests.
+● Added additional functionality using AWS Lambda which can automatically scale out and in on demand.
+● Developed the algorithm that performs face recognition on videos, looks up recognized students in DynamoDB, and returns their academic
+information as a csv file.
+● Utilized Docker containers to create a customized Lambda function for video processing and face recognition resulting in a highly efficient
+application that can process more than 1000 requests in less than 7 minutes.
+## Stock trading system Fall 2022
+● Developed a stock trading platform that allows users to trade stocks. The platform caters to two distinct user types: Administrators and Customers.
+● Created multiple API’s using java to buy stock, sell stock, create stock, placing market and limit orders and used MariaDb as the database.
+● Developed the front end using React.Js and used Redux for state management so that when multiple users login to their account they can view their
+own portfolio.
+● Implemented a random stock price generator using python that dynamically fluctuates prices throughout the day to enhance the realism of a stock
+trading platform by sending continuous POST requests to the sever.
+## Mental health treatment predictor using data mining.
+● Classified whether or not an employee needed treatment based on the mental health in tech survey data.
+● Preprocessed and cleaned the obtained data in order to apply classification algorithms.
+● Implemented variety of machine learning classification algorithms like Logistic Regression, Random forest, Support
+● vector machine, Decision tree, K nearest neighbor, Recurrent neural network, Adaboost.
+● After comparing these classifiers using performing metrics such as Accuracy,F-1 score ,precision and recall achieved the best classification accuracy
+of 84% for support vector machine .
+
 ### :fire: My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=rahnayak98&theme=dark&background=000000)](https://git.io/streak-stats)
 
