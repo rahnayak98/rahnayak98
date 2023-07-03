@@ -3,7 +3,7 @@
 Summary
 ---
 * I am currently Pursuing my Masters in Computer science from Arizona State University
-* I am also open to work and currently looking for SDE internships for summer 2023 and SDE Roles for 2024. Feel free to reach out to me on my email :smiley:
+* I am also open to work and currently looking for SDE internships and SDE Roles for Spring 2024. Feel free to reach out to me on my email :smiley:
 
 Skills
 ---
